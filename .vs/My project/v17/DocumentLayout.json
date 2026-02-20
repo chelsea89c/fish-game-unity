@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\UnityProjects\\FishGame\\My project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|c:\\unityprojects\\fishgame\\my project\\assets\\game\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\ui\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\UnityProjects\\FishGame\\My project\\assets\\game\\scripts\\core\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\core\\fish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\UnityProjects\\FishGame\\My project\\assets\\game\\scripts\\core\\fishmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\core\\fishmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\UnityProjects\\FishGame\\My project\\assets\\game\\scripts\\core\\fishdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\core\\fishdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\UnityProjects\\FishGame\\My project\\assets\\game\\scripts\\managers\\fishspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\managers\\fishspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|C:\\UnityProjects\\FishGame\\My project\\assets\\game\\scripts\\core\\fishrarity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C3BDE6-E125-3128-82C1-25D0441455A3}|Assembly-CSharp.csproj|solutionrelative:assets\\game\\scripts\\core\\fishrarity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\FishGame\\My project\\Assets\\Game\\Scripts\\UI\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\UI\\UIManager.cs",
+              "ToolTip": "C:\\UnityProjects\\FishGame\\My project\\Assets\\Game\\Scripts\\UI\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\UI\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T15:28:43.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FishSpawner.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\FishGame\\My project\\Assets\\Game\\Scripts\\Managers\\FishSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Managers\\FishSpawner.cs",
+              "ToolTip": "C:\\UnityProjects\\FishGame\\My project\\Assets\\Game\\Scripts\\Managers\\FishSpawner.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Managers\\FishSpawner.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAwwGkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:29:54.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FishMovement.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\FishGame\\My project\\Assets\\Game\\Scripts\\Core\\FishMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Core\\FishMovement.cs",
+              "ToolTip": "C:\\UnityProjects\\FishGame\\My project\\Assets\\Game\\Scripts\\Core\\FishMovement.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Core\\FishMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:13:01.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Fish.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\FishGame\\My project\\Assets\\Game\\Scripts\\Core\\Fish.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Core\\Fish.cs",
+              "ToolTip": "C:\\UnityProjects\\FishGame\\My project\\Assets\\Game\\Scripts\\Core\\Fish.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Core\\Fish.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:12:33.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FishData.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\FishGame\\My project\\Assets\\Game\\Scripts\\Core\\FishData.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Core\\FishData.cs",
+              "ToolTip": "C:\\UnityProjects\\FishGame\\My project\\Assets\\Game\\Scripts\\Core\\FishData.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Core\\FishData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:11:35.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FishRarity.cs",
+              "DocumentMoniker": "C:\\UnityProjects\\FishGame\\My project\\Assets\\Game\\Scripts\\Core\\FishRarity.cs",
+              "RelativeDocumentMoniker": "Assets\\Game\\Scripts\\Core\\FishRarity.cs",
+              "ToolTip": "C:\\UnityProjects\\FishGame\\My project\\Assets\\Game\\Scripts\\Core\\FishRarity.cs",
+              "RelativeToolTip": "Assets\\Game\\Scripts\\Core\\FishRarity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T15:10:38.361Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
