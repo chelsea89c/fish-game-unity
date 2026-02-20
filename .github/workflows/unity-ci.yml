@@ -1,26 +1,20 @@
-name: Unity Windows CI
+name: Unity Windows Build
 
 on:
   push:
     branches:
       - main
-      - devbot-work
 
 jobs:
   build:
-    runs-on: windows-latest
+    name: Build Windows
+    runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Print OS Info
-        run: systeminfo
-
-      - name: Setup .NET
-        uses: actions/setup-dotnet@v4
+      - uses: game-ci/unity-builder@v4
         with:
-          dotnet-version: 8.0.x
-
-      - name: Build Solution
-        run: dotnet build "My project.sln"
+          targetPlatform: StandaloneWindows64
+        env:
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
